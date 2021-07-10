@@ -1,4 +1,4 @@
-# Synthetic Dataset for Regression and Uncertainty Quantification
+# Synthetic Datasets for Numeric Uncertainty Quantification
 
 ## The Source of Dataset with Sourcecode
 We generate these synthetic datasets with the help of the following python script in the Kaggle.
