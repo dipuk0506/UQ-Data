@@ -21,4 +21,4 @@ The following notebook presents how to train Random Vector Functional Link (RVFL
 
 https://www.kaggle.com/dipuk0506/shallow-nn-on-toy-datasets 
 
-Version-N of the notebook applies a shallow NN to Data-N.
+Version-N of the notebook applies an RVFL network to Data-N.
