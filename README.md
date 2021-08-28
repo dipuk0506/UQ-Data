@@ -1,6 +1,6 @@
 # Synthetic Datasets for Numeric Uncertainty Quantification
 
-## The Source of Dataset with Sourcecode
+## The Source of Dataset with Generation Script
 We generate these synthetic datasets with the help of the following python script in the Kaggle.
 
 https://www.kaggle.com/dipuk0506/toy-dataset-for-regression-and-uq
